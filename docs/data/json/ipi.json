@@ -1,0 +1,111 @@
+{
+  "fuente": "DiPEC — Departamento de Cuentas Provinciales",
+  "unidad": "índice base 2004=100 y variación porcentual anual",
+  "datos": [
+    {
+      "año": 2004,
+      "indice": 100.0,
+      "variacion_anual_pct": null
+    },
+    {
+      "año": 2005,
+      "indice": 111.2,
+      "variacion_anual_pct": 11.2
+    },
+    {
+      "año": 2006,
+      "indice": 115.5,
+      "variacion_anual_pct": 3.9
+    },
+    {
+      "año": 2007,
+      "indice": 120.2,
+      "variacion_anual_pct": 4.1
+    },
+    {
+      "año": 2008,
+      "indice": 125.2,
+      "variacion_anual_pct": 4.1
+    },
+    {
+      "año": 2009,
+      "indice": 115.2,
+      "variacion_anual_pct": -7.9
+    },
+    {
+      "año": 2010,
+      "indice": 118.8,
+      "variacion_anual_pct": 3.1
+    },
+    {
+      "año": 2011,
+      "indice": 121.5,
+      "variacion_anual_pct": 2.2
+    },
+    {
+      "año": 2012,
+      "indice": 118.4,
+      "variacion_anual_pct": -2.5
+    },
+    {
+      "año": 2013,
+      "indice": 116.2,
+      "variacion_anual_pct": -1.8
+    },
+    {
+      "año": 2014,
+      "indice": 122.0,
+      "variacion_anual_pct": 5.0
+    },
+    {
+      "año": 2015,
+      "indice": 127.0,
+      "variacion_anual_pct": 4.1
+    },
+    {
+      "año": 2016,
+      "indice": 120.5,
+      "variacion_anual_pct": -5.1
+    },
+    {
+      "año": 2017,
+      "indice": 122.1,
+      "variacion_anual_pct": 1.4
+    },
+    {
+      "año": 2018,
+      "indice": 117.1,
+      "variacion_anual_pct": -4.2
+    },
+    {
+      "año": 2019,
+      "indice": 123.7,
+      "variacion_anual_pct": 5.7
+    },
+    {
+      "año": 2020,
+      "indice": 118.2,
+      "variacion_anual_pct": -4.5
+    },
+    {
+      "año": 2021,
+      "indice": 131.3,
+      "variacion_anual_pct": 11.1
+    },
+    {
+      "año": 2022,
+      "indice": 130.9,
+      "variacion_anual_pct": -0.3
+    },
+    {
+      "año": 2023,
+      "indice": 126.0,
+      "variacion_anual_pct": -3.8
+    },
+    {
+      "año": 2024,
+      "indice": 113.3,
+      "variacion_anual_pct": -10.0
+    }
+  ]
+}

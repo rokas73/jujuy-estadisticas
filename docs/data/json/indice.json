@@ -1,0 +1,72 @@
+{
+  "titulo": "Anuario Estadístico 2024 — Provincia de Jujuy",
+  "generado": "2024",
+  "fuente_general": "DiPEC — Dirección Provincial de Estadística y Censos",
+  "repositorio": "https://github.com/TU_USUARIO/jujuy-estadisticas",
+  "datasets": [
+    {
+      "id": "tasas_laborales",
+      "descripcion": "Tasas laborales anuales (actividad, empleo, desocupación, subocupación)",
+      "archivos": {
+        "json": "data/json/tasas_laborales.json",
+        "csv": "data/csv/tasas_laborales.csv"
+      }
+    },
+    {
+      "id": "pobreza_indigencia",
+      "descripcion": "Pobreza e indigencia semestrales (hogares y personas)",
+      "archivos": {
+        "json": "data/json/pobreza_indigencia.json",
+        "csv": "data/csv/pobreza_indigencia.csv"
+      }
+    },
+    {
+      "id": "condicion_actividad",
+      "descripcion": "Condición de actividad económica por grupo de edad — Censo 2022",
+      "archivos": {
+        "json": "data/json/condicion_actividad_2022.json",
+        "csv": "data/csv/condicion_actividad_2022.csv"
+      }
+    },
+    {
+      "id": "sector_publico",
+      "descripcion": "Ejecución presupuestaria 2005–2024",
+      "archivos": {
+        "json": "data/json/sector_publico.json",
+        "csv": "data/csv/sector_publico.csv"
+      }
+    },
+    {
+      "id": "gasto_corriente_2024",
+      "descripcion": "Estructura del gasto corriente 2024",
+      "archivos": {
+        "json": "data/json/gasto_corriente_2024.json",
+        "csv": "data/csv/gasto_corriente_2024.csv"
+      }
+    },
+    {
+      "id": "pbg_constantes",
+      "descripcion": "PBG a precios constantes 2004–2024",
+      "archivos": {
+        "json": "data/json/pbg_constantes.json",
+        "csv": "data/csv/pbg_constantes.csv"
+      }
+    },
+    {
+      "id": "ipi",
+      "descripcion": "Índice de Producción Industrial 2004–2024",
+      "archivos": {
+        "json": "data/json/ipi.json",
+        "csv": "data/csv/ipi.csv"
+      }
+    },
+    {
+      "id": "sectores_pbg_2024",
+      "descripcion": "Composición sectorial del PBG 2024",
+      "archivos": {
+        "json": "data/json/sectores_pbg_2024.json",
+        "csv": "data/csv/sectores_pbg_2024.csv"
+      }
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "fuente": "Censo Nacional de Población, Hogares y Viviendas 2022 — INDEC / DiPEC",
+  "unidad": "personas",
+  "nota": "Población de 14 años y más. Provincia de Jujuy",
+  "datos": [
+    {
+      "grupo_edad": "Total",
+      "poblacion_14mas": 633222,
+      "pea_total": 397889,
+      "ocupados": 366361,
+      "desocupados": 31528,
+      "no_activos": 235333
+    },
+    {
+      "grupo_edad": "14-19",
+      "poblacion_14mas": 79368,
+      "pea_total": 17030,
+      "ocupados": 13848,
+      "desocupados": 3182,
+      "no_activos": 62338
+    },
+    {
+      "grupo_edad": "20-29",
+      "poblacion_14mas": 132868,
+      "pea_total": 91937,
+      "ocupados": 79487,
+      "desocupados": 12450,
+      "no_activos": 40931
+    },
+    {
+      "grupo_edad": "30-44",
+      "poblacion_14mas": 180743,
+      "pea_total": 149903,
+      "ocupados": 140021,
+      "desocupados": 9882,
+      "no_activos": 30840
+    },
+    {
+      "grupo_edad": "45-59",
+      "poblacion_14mas": 128556,
+      "pea_total": 109893,
+      "ocupados": 104254,
+      "desocupados": 5639,
+      "no_activos": 18663
+    },
+    {
+      "grupo_edad": "60 y más",
+      "poblacion_14mas": 111687,
+      "pea_total": 29126,
+      "ocupados": 28751,
+      "desocupados": 375,
+      "no_activos": 82561
+    }
+  ]
+}

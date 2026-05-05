@@ -1,0 +1,187 @@
+{
+  "fuente": "DiPEC — Ministerio de Economía Argentina",
+  "unidad": "millones de pesos corrientes",
+  "nota": "Administración Pública No Financiera. Ejecución presupuestaria provisoria. Cuarto trimestre acumulado",
+  "datos": [
+    {
+      "año": 2005,
+      "ingresos_corrientes": 1260,
+      "gastos_corrientes": 1146,
+      "ingresos_capital": 135,
+      "gastos_capital": 216,
+      "resultado_primario": 100,
+      "resultado_financiero": 33
+    },
+    {
+      "año": 2006,
+      "ingresos_corrientes": 1537,
+      "gastos_corrientes": 1403,
+      "ingresos_capital": 184,
+      "gastos_capital": 285,
+      "resultado_primario": 88,
+      "resultado_financiero": 32
+    },
+    {
+      "año": 2007,
+      "ingresos_corrientes": 2067,
+      "gastos_corrientes": 1941,
+      "ingresos_capital": 176,
+      "gastos_capital": 395,
+      "resultado_primario": -93,
+      "resultado_financiero": -17
+    },
+    {
+      "año": 2008,
+      "ingresos_corrientes": 2554,
+      "gastos_corrientes": 2479,
+      "ingresos_capital": 225,
+      "gastos_capital": 480,
+      "resultado_primario": -127,
+      "resultado_financiero": -180
+    },
+    {
+      "año": 2009,
+      "ingresos_corrientes": 3157,
+      "gastos_corrientes": 3078,
+      "ingresos_capital": 426,
+      "gastos_capital": 639,
+      "resultado_primario": -73,
+      "resultado_financiero": -135
+    },
+    {
+      "año": 2010,
+      "ingresos_corrientes": 4337,
+      "gastos_corrientes": 3876,
+      "ingresos_capital": 551,
+      "gastos_capital": 732,
+      "resultado_primario": 372,
+      "resultado_financiero": 281
+    },
+    {
+      "año": 2011,
+      "ingresos_corrientes": 5377,
+      "gastos_corrientes": 5244,
+      "ingresos_capital": 595,
+      "gastos_capital": 1016,
+      "resultado_primario": -280,
+      "resultado_financiero": -288
+    },
+    {
+      "año": 2012,
+      "ingresos_corrientes": 6939,
+      "gastos_corrientes": 6993,
+      "ingresos_capital": 767,
+      "gastos_capital": 1196,
+      "resultado_primario": -470,
+      "resultado_financiero": -484
+    },
+    {
+      "año": 2013,
+      "ingresos_corrientes": 8667,
+      "gastos_corrientes": 9380,
+      "ingresos_capital": 1161,
+      "gastos_capital": 1641,
+      "resultado_primario": -1140,
+      "resultado_financiero": -1193
+    },
+    {
+      "año": 2014,
+      "ingresos_corrientes": 12548,
+      "gastos_corrientes": 12875,
+      "ingresos_capital": 1755,
+      "gastos_capital": 2559,
+      "resultado_primario": -1125,
+      "resultado_financiero": -1132
+    },
+    {
+      "año": 2015,
+      "ingresos_corrientes": 17436,
+      "gastos_corrientes": 17639,
+      "ingresos_capital": 2212,
+      "gastos_capital": 3678,
+      "resultado_primario": -1649,
+      "resultado_financiero": -1669
+    },
+    {
+      "año": 2016,
+      "ingresos_corrientes": 21329,
+      "gastos_corrientes": 24275,
+      "ingresos_capital": 1615,
+      "gastos_capital": 3660,
+      "resultado_primario": -4518,
+      "resultado_financiero": -4991
+    },
+    {
+      "año": 2017,
+      "ingresos_corrientes": 29395,
+      "gastos_corrientes": 31710,
+      "ingresos_capital": 2380,
+      "gastos_capital": 5470,
+      "resultado_primario": -4465,
+      "resultado_financiero": -5405
+    },
+    {
+      "año": 2018,
+      "ingresos_corrientes": 38952,
+      "gastos_corrientes": 39299,
+      "ingresos_capital": 2174,
+      "gastos_capital": 7668,
+      "resultado_primario": -3361,
+      "resultado_financiero": -5841
+    },
+    {
+      "año": 2019,
+      "ingresos_corrientes": 54640,
+      "gastos_corrientes": 53895,
+      "ingresos_capital": 1901,
+      "gastos_capital": 7890,
+      "resultado_primario": -2525,
+      "resultado_financiero": -5244
+    },
+    {
+      "año": 2020,
+      "ingresos_corrientes": 76340,
+      "gastos_corrientes": 68527,
+      "ingresos_capital": 1974,
+      "gastos_capital": 10098,
+      "resultado_primario": 2794,
+      "resultado_financiero": -311
+    },
+    {
+      "año": 2021,
+      "ingresos_corrientes": 125888,
+      "gastos_corrientes": 106111,
+      "ingresos_capital": 2800,
+      "gastos_capital": 17724,
+      "resultado_primario": 9928,
+      "resultado_financiero": 4854
+    },
+    {
+      "año": 2022,
+      "ingresos_corrientes": 225879,
+      "gastos_corrientes": 175317,
+      "ingresos_capital": 1796,
+      "gastos_capital": 40924,
+      "resultado_primario": 20035,
+      "resultado_financiero": 11435
+    },
+    {
+      "año": 2023,
+      "ingresos_corrientes": 517806,
+      "gastos_corrientes": 442970,
+      "ingresos_capital": 21360,
+      "gastos_capital": 103168,
+      "resultado_primario": 7599,
+      "resultado_financiero": -6991
+    },
+    {
+      "año": 2024,
+      "ingresos_corrientes": 1591672,
+      "gastos_corrientes": 1161179,
+      "ingresos_capital": 39550,
+      "gastos_capital": 250519,
+      "resultado_primario": 248375,
+      "resultado_financiero": 219524
+    }
+  ]
+}

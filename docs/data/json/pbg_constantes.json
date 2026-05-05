@@ -1,0 +1,133 @@
+{
+  "fuente": "DiPEC — Departamento de Cuentas Provinciales",
+  "unidad": "miles de pesos a precios constantes de 2004",
+  "nota": "Datos del año 2024 de carácter provisorio",
+  "datos": [
+    {
+      "año": 2004,
+      "pbg_total": 3696464,
+      "sector_bienes": 1406328,
+      "sector_servicios": 2290136
+    },
+    {
+      "año": 2005,
+      "pbg_total": 4010107,
+      "sector_bienes": 1551111,
+      "sector_servicios": 2458996
+    },
+    {
+      "año": 2006,
+      "pbg_total": 4225402,
+      "sector_bienes": 1588584,
+      "sector_servicios": 2636819
+    },
+    {
+      "año": 2007,
+      "pbg_total": 4548294,
+      "sector_bienes": 1652959,
+      "sector_servicios": 2895334
+    },
+    {
+      "año": 2008,
+      "pbg_total": 4707750,
+      "sector_bienes": 1721856,
+      "sector_servicios": 2985894
+    },
+    {
+      "año": 2009,
+      "pbg_total": 4844307,
+      "sector_bienes": 1712335,
+      "sector_servicios": 3131972
+    },
+    {
+      "año": 2010,
+      "pbg_total": 5053614,
+      "sector_bienes": 1808899,
+      "sector_servicios": 3244715
+    },
+    {
+      "año": 2011,
+      "pbg_total": 5375231,
+      "sector_bienes": 1863567,
+      "sector_servicios": 3511664
+    },
+    {
+      "año": 2012,
+      "pbg_total": 5545932,
+      "sector_bienes": 1886583,
+      "sector_servicios": 3659349
+    },
+    {
+      "año": 2013,
+      "pbg_total": 5667284,
+      "sector_bienes": 1821385,
+      "sector_servicios": 3845899
+    },
+    {
+      "año": 2014,
+      "pbg_total": 5830365,
+      "sector_bienes": 1903255,
+      "sector_servicios": 3927110
+    },
+    {
+      "año": 2015,
+      "pbg_total": 6063316,
+      "sector_bienes": 1955459,
+      "sector_servicios": 4107857
+    },
+    {
+      "año": 2016,
+      "pbg_total": 5994338,
+      "sector_bienes": 1851721,
+      "sector_servicios": 4142617
+    },
+    {
+      "año": 2017,
+      "pbg_total": 6206366,
+      "sector_bienes": 1927690,
+      "sector_servicios": 4278676
+    },
+    {
+      "año": 2018,
+      "pbg_total": 6172768,
+      "sector_bienes": 1898931,
+      "sector_servicios": 4273837
+    },
+    {
+      "año": 2019,
+      "pbg_total": 6018466,
+      "sector_bienes": 1835815,
+      "sector_servicios": 4182651
+    },
+    {
+      "año": 2020,
+      "pbg_total": 5776501,
+      "sector_bienes": 1674270,
+      "sector_servicios": 4102231
+    },
+    {
+      "año": 2021,
+      "pbg_total": 6296518,
+      "sector_bienes": 1889245,
+      "sector_servicios": 4407273
+    },
+    {
+      "año": 2022,
+      "pbg_total": 6891750,
+      "sector_bienes": 2117284,
+      "sector_servicios": 4774466
+    },
+    {
+      "año": 2023,
+      "pbg_total": 6858376,
+      "sector_bienes": 2047740,
+      "sector_servicios": 4810635
+    },
+    {
+      "año": 2024,
+      "pbg_total": 6465553,
+      "sector_bienes": 1825367,
+      "sector_servicios": 4640186
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "fuente": "DiPEC — Departamento de Cuentas Provinciales",
+  "unidad": "miles de pesos constantes 2004 y participación porcentual",
+  "año": 2024,
+  "nota": "Datos provisorios",
+  "datos": [
+    {
+      "sector": "G - Comercio al por mayor y menor",
+      "monto": 1122476,
+      "participacion_pct": 16.1
+    },
+    {
+      "sector": "K - Actividades inmobiliarias y empresariales",
+      "monto": 1061083,
+      "participacion_pct": 15.2
+    },
+    {
+      "sector": "L - Administración pública y defensa",
+      "monto": 993128,
+      "participacion_pct": 14.2
+    },
+    {
+      "sector": "D - Industria manufacturera",
+      "monto": 829367,
+      "participacion_pct": 11.9
+    },
+    {
+      "sector": "I - Transporte, almac. y comunicaciones",
+      "monto": 709172,
+      "participacion_pct": 10.2
+    },
+    {
+      "sector": "F - Construcción",
+      "monto": 389840,
+      "participacion_pct": 5.6
+    },
+    {
+      "sector": "C - Minas y canteras",
+      "monto": 376965,
+      "participacion_pct": 5.4
+    },
+    {
+      "sector": "A - Agricultura y ganadería",
+      "monto": 342293,
+      "participacion_pct": 4.9
+    },
+    {
+      "sector": "M - Enseñanza",
+      "monto": 313347,
+      "participacion_pct": 4.5
+    },
+    {
+      "sector": "N - Servicios sociales y de salud",
+      "monto": 295582,
+      "participacion_pct": 4.2
+    },
+    {
+      "sector": "O - Otras actividades comunitarias",
+      "monto": 159366,
+      "participacion_pct": 2.3
+    },
+    {
+      "sector": "J - Intermediación financiera",
+      "monto": 130504,
+      "participacion_pct": 1.9
+    },
+    {
+      "sector": "E - Electricidad, gas y agua",
+      "monto": 123994,
+      "participacion_pct": 1.8
+    },
+    {
+      "sector": "H - Hoteles y restaurantes",
+      "monto": 120138,
+      "participacion_pct": 1.7
+    },
+    {
+      "sector": "P - Servicio doméstico",
+      "monto": 15972,
+      "participacion_pct": 0.2
+    }
+  ]
+}

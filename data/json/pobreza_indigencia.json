@@ -1,0 +1,126 @@
+{
+  "fuente": "DiPEC / EPH-INDEC",
+  "unidad": "porcentaje",
+  "nota": "Datos semestrales. Jujuy-Palpalá",
+  "datos": [
+    {
+      "semestre": "2S 2016",
+      "pobreza_hogares": 20.1,
+      "pobreza_personas": 25.7,
+      "indigencia_hogares": 3.6,
+      "indigencia_personas": 4.5
+    },
+    {
+      "semestre": "1S 2017",
+      "pobreza_hogares": 17.8,
+      "pobreza_personas": 23.8,
+      "indigencia_hogares": 1.7,
+      "indigencia_personas": 1.7
+    },
+    {
+      "semestre": "2S 2017",
+      "pobreza_hogares": 18.7,
+      "pobreza_personas": 24.2,
+      "indigencia_hogares": 2.8,
+      "indigencia_personas": 4.0
+    },
+    {
+      "semestre": "1S 2018",
+      "pobreza_hogares": 23.0,
+      "pobreza_personas": 30.3,
+      "indigencia_hogares": 3.1,
+      "indigencia_personas": 4.3
+    },
+    {
+      "semestre": "2S 2018",
+      "pobreza_hogares": 24.7,
+      "pobreza_personas": 31.7,
+      "indigencia_hogares": 4.6,
+      "indigencia_personas": 6.4
+    },
+    {
+      "semestre": "1S 2019",
+      "pobreza_hogares": 26.2,
+      "pobreza_personas": 35.7,
+      "indigencia_hogares": 3.8,
+      "indigencia_personas": 6.4
+    },
+    {
+      "semestre": "2S 2019",
+      "pobreza_hogares": 28.2,
+      "pobreza_personas": 37.8,
+      "indigencia_hogares": 4.3,
+      "indigencia_personas": 5.7
+    },
+    {
+      "semestre": "1S 2020",
+      "pobreza_hogares": 28.6,
+      "pobreza_personas": 38.0,
+      "indigencia_hogares": 3.5,
+      "indigencia_personas": 4.8
+    },
+    {
+      "semestre": "2S 2020",
+      "pobreza_hogares": 27.4,
+      "pobreza_personas": 37.7,
+      "indigencia_hogares": 3.3,
+      "indigencia_personas": 4.7
+    },
+    {
+      "semestre": "1S 2021",
+      "pobreza_hogares": 33.4,
+      "pobreza_personas": 42.5,
+      "indigencia_hogares": 4.4,
+      "indigencia_personas": 5.7
+    },
+    {
+      "semestre": "2S 2021",
+      "pobreza_hogares": 29.4,
+      "pobreza_personas": 36.2,
+      "indigencia_hogares": 5.0,
+      "indigencia_personas": 6.3
+    },
+    {
+      "semestre": "1S 2022",
+      "pobreza_hogares": 28.2,
+      "pobreza_personas": 33.8,
+      "indigencia_hogares": 5.4,
+      "indigencia_personas": 6.4
+    },
+    {
+      "semestre": "2S 2022",
+      "pobreza_hogares": 32.5,
+      "pobreza_personas": 41.8,
+      "indigencia_hogares": 5.8,
+      "indigencia_personas": 8.5
+    },
+    {
+      "semestre": "1S 2023",
+      "pobreza_hogares": 34.0,
+      "pobreza_personas": 42.2,
+      "indigencia_hogares": 6.5,
+      "indigencia_personas": 8.7
+    },
+    {
+      "semestre": "2S 2023",
+      "pobreza_hogares": 33.8,
+      "pobreza_personas": 43.6,
+      "indigencia_hogares": 8.3,
+      "indigencia_personas": 11.1
+    },
+    {
+      "semestre": "1S 2024",
+      "pobreza_hogares": 46.3,
+      "pobreza_personas": 55.7,
+      "indigencia_hogares": 12.5,
+      "indigencia_personas": 15.3
+    },
+    {
+      "semestre": "2S 2024",
+      "pobreza_hogares": 31.0,
+      "pobreza_personas": 40.0,
+      "indigencia_hogares": 6.8,
+      "indigencia_personas": 9.8
+    }
+  ]
+}

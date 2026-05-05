@@ -1,0 +1,223 @@
+{
+  "fuente": "DiPEC / EPH-INDEC",
+  "unidad": "porcentaje",
+  "nota": "Promedios anuales de los cuatro trimestres",
+  "datos": [
+    {
+      "año": 2016,
+      "region": "Jujuy-Palpalá",
+      "actividad": 42.8,
+      "empleo": 40.3,
+      "desocupacion": 3.5,
+      "subocupacion": 12.0
+    },
+    {
+      "año": 2016,
+      "region": "NOA",
+      "actividad": 43.5,
+      "empleo": 41.0,
+      "desocupacion": 5.7,
+      "subocupacion": 10.0
+    },
+    {
+      "año": 2016,
+      "region": "Total País",
+      "actividad": 46.1,
+      "empleo": 42.6,
+      "desocupacion": 8.5,
+      "subocupacion": 10.5
+    },
+    {
+      "año": 2017,
+      "region": "Jujuy-Palpalá",
+      "actividad": 45.5,
+      "empleo": 43.2,
+      "desocupacion": 5.0,
+      "subocupacion": 13.8
+    },
+    {
+      "año": 2017,
+      "region": "NOA",
+      "actividad": 44.7,
+      "empleo": 41.9,
+      "desocupacion": 6.3,
+      "subocupacion": 11.0
+    },
+    {
+      "año": 2017,
+      "region": "Total País",
+      "actividad": 46.2,
+      "empleo": 42.7,
+      "desocupacion": 8.5,
+      "subocupacion": 10.5
+    },
+    {
+      "año": 2018,
+      "region": "Jujuy-Palpalá",
+      "actividad": 43.6,
+      "empleo": 41.4,
+      "desocupacion": 5.3,
+      "subocupacion": 12.5
+    },
+    {
+      "año": 2018,
+      "region": "NOA",
+      "actividad": 43.9,
+      "empleo": 41.1,
+      "desocupacion": 6.5,
+      "subocupacion": 11.0
+    },
+    {
+      "año": 2018,
+      "region": "Total País",
+      "actividad": 46.7,
+      "empleo": 42.5,
+      "desocupacion": 9.2,
+      "subocupacion": 11.5
+    },
+    {
+      "año": 2019,
+      "region": "Jujuy-Palpalá",
+      "actividad": 45.8,
+      "empleo": 43.3,
+      "desocupacion": 5.5,
+      "subocupacion": 15.5
+    },
+    {
+      "año": 2019,
+      "region": "NOA",
+      "actividad": 45.4,
+      "empleo": 42.8,
+      "desocupacion": 6.2,
+      "subocupacion": 13.1
+    },
+    {
+      "año": 2019,
+      "region": "Total País",
+      "actividad": 47.3,
+      "empleo": 43.0,
+      "desocupacion": 9.8,
+      "subocupacion": 13.0
+    },
+    {
+      "año": 2020,
+      "region": "Jujuy-Palpalá",
+      "actividad": 41.7,
+      "empleo": 40.2,
+      "desocupacion": 5.8,
+      "subocupacion": 18.0
+    },
+    {
+      "año": 2020,
+      "region": "NOA",
+      "actividad": 41.5,
+      "empleo": 38.9,
+      "desocupacion": 6.1,
+      "subocupacion": 12.9
+    },
+    {
+      "año": 2020,
+      "region": "Total País",
+      "actividad": 40.7,
+      "empleo": 33.4,
+      "desocupacion": 11.5,
+      "subocupacion": 16.5
+    },
+    {
+      "año": 2021,
+      "region": "Jujuy-Palpalá",
+      "actividad": 45.7,
+      "empleo": 43.5,
+      "desocupacion": 5.5,
+      "subocupacion": 13.4
+    },
+    {
+      "año": 2021,
+      "region": "NOA",
+      "actividad": 44.1,
+      "empleo": 41.9,
+      "desocupacion": 5.7,
+      "subocupacion": 12.5
+    },
+    {
+      "año": 2021,
+      "region": "Total País",
+      "actividad": 45.0,
+      "empleo": 40.1,
+      "desocupacion": 8.7,
+      "subocupacion": 11.5
+    },
+    {
+      "año": 2022,
+      "region": "Jujuy-Palpalá",
+      "actividad": 47.0,
+      "empleo": 44.9,
+      "desocupacion": 4.9,
+      "subocupacion": 10.6
+    },
+    {
+      "año": 2022,
+      "region": "NOA",
+      "actividad": 46.1,
+      "empleo": 43.7,
+      "desocupacion": 5.2,
+      "subocupacion": 12.4
+    },
+    {
+      "año": 2022,
+      "region": "Total País",
+      "actividad": 47.8,
+      "empleo": 44.6,
+      "desocupacion": 6.9,
+      "subocupacion": 10.8
+    },
+    {
+      "año": 2023,
+      "region": "Jujuy-Palpalá",
+      "actividad": 47.3,
+      "empleo": 44.8,
+      "desocupacion": 5.7,
+      "subocupacion": 10.6
+    },
+    {
+      "año": 2023,
+      "region": "NOA",
+      "actividad": 45.9,
+      "empleo": 43.4,
+      "desocupacion": 5.3,
+      "subocupacion": 12.6
+    },
+    {
+      "año": 2023,
+      "region": "Total País",
+      "actividad": 48.4,
+      "empleo": 45.5,
+      "desocupacion": 5.7,
+      "subocupacion": 12.0
+    },
+    {
+      "año": 2024,
+      "region": "Jujuy-Palpalá",
+      "actividad": 47.5,
+      "empleo": 45.1,
+      "desocupacion": 3.9,
+      "subocupacion": 12.2
+    },
+    {
+      "año": 2024,
+      "region": "NOA",
+      "actividad": 46.1,
+      "empleo": 43.5,
+      "desocupacion": 5.8,
+      "subocupacion": 9.7
+    },
+    {
+      "año": 2024,
+      "region": "Total País",
+      "actividad": 48.5,
+      "empleo": 45.7,
+      "desocupacion": 6.4,
+      "subocupacion": 13.2
+    }
+  ]
+}

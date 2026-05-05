@@ -1,0 +1,52 @@
+{
+  "fuente": "DiPEC — Ministerio de Economía Argentina",
+  "unidad": "millones de pesos corrientes",
+  "año": 2024,
+  "datos": [
+    {
+      "concepto": "Gastos de consumo",
+      "monto": 845386,
+      "detalle": "Personal + Bienes + Servicios"
+    },
+    {
+      "concepto": "Personal",
+      "monto": 735657,
+      "detalle": "Remuneraciones al personal del Estado"
+    },
+    {
+      "concepto": "Bienes de consumo",
+      "monto": 47579,
+      "detalle": ""
+    },
+    {
+      "concepto": "Servicios",
+      "monto": 62150,
+      "detalle": ""
+    },
+    {
+      "concepto": "Rentas de la propiedad",
+      "monto": 28851,
+      "detalle": "Intereses de deuda"
+    },
+    {
+      "concepto": "Transferencias corrientes",
+      "monto": 286942,
+      "detalle": "Sector privado + Sector público"
+    },
+    {
+      "concepto": "Al sector privado",
+      "monto": 103688,
+      "detalle": ""
+    },
+    {
+      "concepto": "Al sector público",
+      "monto": 183254,
+      "detalle": ""
+    },
+    {
+      "concepto": "TOTAL gastos corrientes",
+      "monto": 1161179,
+      "detalle": ""
+    }
+  ]
+}
